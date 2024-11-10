@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0n3m0r3
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me louka.altdorfreynes@gmail.com
 
 <!---
